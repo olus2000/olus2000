@@ -1,6 +1,6 @@
 # Henlo ,warld!
 
-I'm Alex, a Polish college student, and I'm fascinated with the unconventional ways of interacting with computers, examples including:
+I'm Alex, a programmer from Poland, and I'm fascinated with the unconventional ways of interacting with computers, examples including:
 
 * Concatenative programming
 * Esoteric languages
