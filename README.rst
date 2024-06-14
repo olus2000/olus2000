@@ -17,8 +17,7 @@ playing around with concatenative calculus, creatively called
 `Concatenative Evaluator`_.
 
 If you want to find out more about me see my repos, `my homepage`_ and if you
-want to support me and my projects I'm open for donations on LiberaPay. I am
-currently employed and don't need donations for survival.
+want to support me and my projects I'm open for donations on LiberaPay.
 
 .. image:: https://liberapay.com/assets/widgets/donate.svg
    :alt: Donate using Liberapay
